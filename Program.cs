@@ -6,7 +6,7 @@ namespace EnvironmentT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!Hasdas");
+            Console.WriteLine("Hello World!Ha");
         }
     }
 }
